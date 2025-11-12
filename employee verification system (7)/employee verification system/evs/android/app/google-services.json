@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869550824763",
+    "project_id": "evs-firebaseo",
+    "storage_bucket": "evs-firebaseo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869550824763:android:c6ba30bf8d7dd78ba56b1e",
+        "android_client_info": {
+          "package_name": "com.example.evs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs45nWSG81LmqwLP86sQy7M19bFbv89kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
